@@ -1,0 +1,6 @@
+{
+  "name": "FRSHURE",
+  "description": "A high-performance student jobs marketplace connecting talented students with top-tier verified employers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
